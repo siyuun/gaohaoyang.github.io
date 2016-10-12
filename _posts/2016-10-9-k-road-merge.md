@@ -15,7 +15,6 @@ tags: merge
 
 第一次成功发表博客！！O(∩_∩)O哈！但是代码块一直有问题……
 
- ```
 		#include <iostream>  
 		using namespace std;  
 		  
@@ -111,4 +110,3 @@ tags: merge
 		  
 			return 0;  
 		}  
-```
