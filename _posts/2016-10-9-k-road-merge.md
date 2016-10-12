@@ -13,6 +13,8 @@ tags: merge
 
 >[败者树k路归并（可运行）](http://blog.csdn.net/tiantangrenjian/article/details/6838491)
 
+第一次成功发表博客！！O(∩_∩)O哈！
+
  ```
 #include <iostream>  
 using namespace std;  
@@ -110,4 +112,3 @@ int main()
     return 0;  
 }  
 ```
-第一次成功发表博客！！O(∩_∩)O哈！
