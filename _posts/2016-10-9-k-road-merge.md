@@ -3,17 +3,15 @@ layout: post
 title:  "败者树k路归并"
 date:   2016-10-9 22:00:54
 categories: algorithm
-tags: merge
+tags: 分治
 ---
 
 * content
 {:toc}
 
-[参考题目](https://www.zybuluo.com/rg070836rg/note/197752)
-
+>算法实验题目:将k个已经排序的数组归并成一个大的排序的数组
 >[败者树k路归并（可运行）](http://blog.csdn.net/tiantangrenjian/article/details/6838491)
 
-第一次成功发表博客！！O(∩_∩)O哈！但是代码块一直有问题……
 
 		#include <iostream>  
 		using namespace std;  
@@ -110,3 +108,5 @@ tags: merge
 		  
 			return 0;  
 		}  
+		
+		
