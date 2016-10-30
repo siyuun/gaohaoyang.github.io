@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: siyuun
-brief-intro: Front-end Dev Engineer
+title: siyu'blog
+brief-intro: No pain, no gain.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://siyuun.github.io" # the base hostname & protocol for your site
 
@@ -16,12 +16,12 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: null
 facebook_username: null
-github_username:  null
+github_username:  siyuun
 email: null
-weibo_username: null
+weibo_username: mdbbm
 zhihu_username: 死鱼死鱼
 linkedIn_username: null
-dribbble_username:
+dribbble_username: null
 
 description_footer: 本站记录我前端之旅的沿途风景！
 port: 5001
