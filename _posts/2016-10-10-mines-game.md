@@ -1,13 +1,13 @@
----
-layout: post
-title:  "扫雷小游戏VB"
-date:   2016-10-10 22:40:04
-categories: VB
-tags: game
----
+	---
+	layout: post
+	title:  "扫雷小游戏VB"
+	date:   2016-10-10 22:40:04
+	categories: VB
+	tags: game
+	---
 
-* content
-{:toc}
+	* content
+	{:toc}
 
 **想题目是什么想了半天 什么导弹炸弹 原来是扫雷啊**
 老师vb写的，自己改了点
